@@ -32,3 +32,17 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Firebase integration
+```
+npm install firebase --save
+```
+## vuex
+```
+npm install vuex --save
+```
+
+## es6promise
+```
+npm install es6-promise --save
+```
